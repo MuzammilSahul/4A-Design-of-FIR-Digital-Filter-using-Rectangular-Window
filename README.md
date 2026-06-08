@@ -32,7 +32,7 @@ PC installed with SCILAB.
 <img width="1600" height="1321" alt="WhatsApp Image 2026-06-08 at 10 26 43 (1)" src="https://github.com/user-attachments/assets/db10de41-1e01-46ea-a4f5-78887c4f03ea" />
 
 # OUTPUT: 
-
+<img width="1600" height="1164" alt="WhatsApp Image 2026-06-08 at 10 26 43 (2)" src="https://github.com/user-attachments/assets/f7d9df2e-b14c-4f5e-a6b9-e9366099e7ed" />
 # Calculations:
 <img width="1600" height="1112" alt="WhatsApp Image 2026-06-08 at 10 35 34 (2)" src="https://github.com/user-attachments/assets/17f90f00-503b-443d-bdcc-d663ed28c8a5" />
 <img width="934" height="1600" alt="WhatsApp Image 2026-06-08 at 10 35 35" src="https://github.com/user-attachments/assets/6e7947eb-c9bc-4d25-b801-71ca0d566360" />
@@ -47,11 +47,11 @@ Thus design of HIGH pass FIR digital filter using-Rectangular-Window waveforms w
 PC installed with SCILAB. 
 
 # PROGRAM: 
-<img width="1600" height="1164" alt="WhatsApp Image 2026-06-08 at 10 26 43 (2)" src="https://github.com/user-attachments/assets/f7d9df2e-b14c-4f5e-a6b9-e9366099e7ed" />
+
 
 
 # OUTPUT: 
-<img width="839" height="1600" alt="WhatsApp Image 2026-06-08 at 10 31 27" src="https://github.com/user-attachments/assets/8bdc9d73-e829-40ce-840d-ce7a52b31cb5" />
+<img width="886" height="1600" alt="WhatsApp Image 2026-06-08 at 10 31 26 (1)" src="https://github.com/user-attachments/assets/c3683e6c-6302-4745-89a9-72c462c540bd" />
 
 # Calculations:
 <img width="911" height="1600" alt="WhatsApp Image 2026-06-08 at 10 35 36" src="https://github.com/user-attachments/assets/cb48f002-1db3-4310-ba0d-7f5026d16791" />
@@ -69,7 +69,8 @@ PC installed with SCILAB.
 
 
 # OUTPUT: 
-<img width="886" height="1600" alt="WhatsApp Image 2026-06-08 at 10 31 26 (1)" src="https://github.com/user-attachments/assets/c3683e6c-6302-4745-89a9-72c462c540bd" />
+
+<img width="813" height="1600" alt="WhatsApp Image 2026-06-08 at 10 31 26" src="https://github.com/user-attachments/assets/550d421a-350d-4d7a-96b7-6f16688d71b7" />
 
 # Calculations:
 <img width="900" height="1600" alt="WhatsApp Image 2026-06-08 at 10 35 38" src="https://github.com/user-attachments/assets/e64444db-3ed1-40bf-b277-9ee4ae8ea06f" />
